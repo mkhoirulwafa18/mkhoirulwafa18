@@ -25,15 +25,15 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/mkhoirulwafa18">
   <div align="center">
+    <img src="https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter&color=151515&logoColor=000&labelColor=f2d0a4">
+    <img src="https://img.shields.io/badge/-Dart-000?style=for-the-badge&logo=dart&color=151515&logoColor=000&labelColor=f2d0a4">
     <img src="https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript&color=151515&logoColor=000&labelColor=f2d0a4">
     <img src="https://img.shields.io/badge/-Typescript-000?style=for-the-badge&logo=typescript&color=151515&logoColor=000&labelColor=f2d0a4">
-    <img src="https://img.shields.io/badge/-Dart-000?style=for-the-badge&logo=dart&color=151515&logoColor=000&labelColor=f2d0a4">
   </div>
   <div align="center">
     <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&color=151515&logoColor=000&labelColor=f2d0a4">
     <img src="https://img.shields.io/badge/-ReactNative-000?style=for-the-badge&logo=react&color=151515&logoColor=000&labelColor=f2d0a4">
     <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&color=151515&logoColor=000&labelColor=f2d0a4">
-    <img src="https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter&color=151515&logoColor=000&labelColor=f2d0a4">
   </div>
 </a>
 
