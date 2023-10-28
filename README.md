@@ -52,7 +52,7 @@
 
 <br/>
 
-[![Wafa's Trips' Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mkhoirulwafa18&bg_color=151515&color=ffffff&line=f2d0a4&point=f2d0a4&area=true&hide_border=true)](https://paceprogrammer.com)
+[![Wafa's Trips' Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mkhoirulwafa18&bg_color=151515&color=ffffff&line=f2d0a4&point=f2d0a4&area=true&hide_border=true)](https://mkhoirulwafa18.github.io)
     </div>
     <p style="text-align: center; font-style: italic; color: #bbb;">"Code is like humor. When you have to explain it, it’s bad." - Cory House</p>
     <div style="text-align: center; margin-top: 30px;">
